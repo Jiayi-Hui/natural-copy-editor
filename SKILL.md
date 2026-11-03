@@ -19,12 +19,14 @@ First remove the parts that make a draft interchangeable:
 
 - motivational opening lines that could fit any account;
 - inflated claims, trend language, and empty praise;
-- repeated reframes such as "不是 X，而是 Y";
+- rhetorical opposition or concession used merely for emphasis, including "不是 X，而是 Y", "不只是 X", "虽然 X 但 Y", "与其 X 不如 Y", "看似 X 其实 Y", and "不要 X，要 Y";
 - fake urgency, engagement bait, and excessive emoji;
 - generic examples that explain a point twice;
 - a hard promotional plug unrelated to the preceding argument.
 
 Then replace only where the source supports it. Prefer a concrete setting, action, friction, question, or informed judgment to an abstract slogan.
+
+State the conclusion directly. A factual negation, constraint, or necessary qualification is fine; do not first dismiss one framing merely to make the next claim sound stronger. For example, a networking post should begin with the real role of industry activities, not a sentence about CVs added only as a foil.
 
 ## Chinese social-copy defaults
 
@@ -33,6 +35,10 @@ Use connected short paragraphs, not a stack of card-like fragments. One compact 
 Do not default to a seven-part course, "three takeaways", stock phrases such as "值得收藏", or a closing recap that restates the whole post. Let the piece end when its thought is complete.
 
 Keep the tone calm and useful. The reader is intelligent and does not need to be persuaded that every ordinary activity is transformative.
+
+Emoji may be used when it provides real navigation or meaning. For a short social post, default to zero to four, normally one for each major section. Do not use emoji in every list item, beside numerals, in the opening paragraph, or as generic emphasis.
+
+When revising someone else's draft, preserve its existing structure and useful examples unless asked to rewrite it substantially. Make surgical changes before proposing a new format.
 
 For career content, explain the actual situation first: what someone should notice, do, or decide, and why. Do not promise referrals, job outcomes, or access that has not been confirmed.
 
@@ -43,6 +49,8 @@ Before returning copy, check:
 1. Could this wording have been written for any organisation? If yes, remove or replace the generic line.
 2. Does each heading or list earn its place? If not, merge it into prose.
 3. Does the call-to-action match the actual access and approval boundary?
-4. Has the rewrite preserved all supplied factual claims and the writer's intended point?
+4. Does the text state its point directly, without rhetorical opposition or concession used as a stylistic crutch?
+5. Do the emojis serve a clear purpose and remain sparse?
+6. Has the rewrite preserved all supplied factual claims and the writer's intended point?
 
 Return the revised copy directly. Explain changes only if the user asks.
